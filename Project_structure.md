@@ -37,9 +37,9 @@ This document describes the structure of the React Native project created for **
 ### 7. **src/**
 - Custom folder for organizing project code.
 - Typically contains:
-  - `components/` → Reusable UI components
-  - `screens/` → App screens
-  - `assets/` → Images, fonts, icons
+  - `debug`
+  - `main/` → java → main activity → main applicaiton
+  - `res/` → drawable and related stuffs where we can change image icons
   - `utils/` → Helper functions
 
 ### 8. **README.md**
