@@ -45,3 +45,18 @@ This document describes the structure of the React Native project created for **
 ### 8. **README.md**
 - Documentation file for project setup, usage, and developer notes.
 
+
+# Project Structure
+## Folder Organization
+- `src/assets/` - has font and images 
+- `src/components/` - header file
+- `src/form/` - includes my index js file
+- `src/screbn/` - auth and home folder including my homescreen
+- `src/constants/` - App constants
+## Development Scripts
+- `npm run dev:android` - Start development for Android
+- `npm run lint` - Check code quality
+- `npm run format` - Format code
+## Environment Configuration
+- Development: `.env.development`
+- Production: `.env.production
